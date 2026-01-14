@@ -4,7 +4,7 @@ Healthcare Analytics Dashboard: Patient Outcomes & Operational Efficiency
 
 Project Overview
 
-This project features a comprehensive Healthcare Analytics Dashboard designed to monitor and analyze key performance indicators (KPIs) for a network of hospitals. The dashboard tracks patient admissions, insurance demographics, medication distribution, and clinical conditions to help healthcare administrators make data-driven decisions.
+This project features a comprehensive Healthcare Analytics Dashboard designed to monitor and analyze key performance indicators (KPIs) for a network of hospitals. The dashboard tracks patient admissions, insurance demographics, medication distribution, and clinical conditions to help healthcare administrators make data-driven decisions. The project contains the screenshot and the pbix.file of the report.
 
 Tools Used
 
