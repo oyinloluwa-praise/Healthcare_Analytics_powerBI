@@ -81,8 +81,6 @@ Oyinloluwa
 
 Data Analyst
 
-This visulaization got me a spot in the largest AI Bootcamp in Nigeria, DSN AI 2025 Bootcamp
+This visualization got me a spot in the largest AI Bootcamp in Nigeria, DSN AI 2025 Bootcamp
 
-Open it using Power BI Desktop.
 
-Use the "Admission Type" and "Date Range" slicers to filter specific data points.
