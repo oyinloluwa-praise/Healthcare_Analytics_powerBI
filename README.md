@@ -74,7 +74,7 @@ How to View the Dashboard
 
 2. Open it using Power BI Desktop.
 
-3. Use the Admission Type and Date Range slicers to filter specific data points.
+3. Use the Admission type and date slicers to filter specific data points.
 
 Author 
 Oyinloluwa
